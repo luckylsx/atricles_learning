@@ -327,6 +327,7 @@ test method:
 2. POST http://localhost:8081/api/resource 请求带上cookie
 3. GET http://localhost:8081/api/resource 请求带上cookie
 
-此时 使用 bob登录，对2亲求通过，3请求拒绝。
+此时 使用 bob登录，对2请求通过，3请求拒绝。
 
->- [参考文章](https://dev.to/maxwellhertz/tutorial-integrate-gin-with-cabsin-56m0) https://dev.to/maxwellhertz/tutorial-integrate-gin-with-cabsin-56m0
+**参考文章**
+1. https://dev.to/maxwellhertz/tutorial-integrate-gin-with-cabsin-56m0
