@@ -329,4 +329,4 @@ test method:
 
 此时 使用 bob登录，对2亲求通过，3请求拒绝。
 
->- [参考文章](https://dev.to/maxwellhertz/tutorial-integrate-gin-with-cabsin-56m0)
+>- [参考文章](https://dev.to/maxwellhertz/tutorial-integrate-gin-with-cabsin-56m0) https://dev.to/maxwellhertz/tutorial-integrate-gin-with-cabsin-56m0
