@@ -8,4 +8,6 @@ atricles read, learn and translate
 
 ## 2021.03
 
-[redis分布式锁](./src/2021/03/redis-lock.md)
+[redis分布式锁](./src/2021/03/1.redis-lock.md)
+
+[git 提交信息规范](./src/2021/03/2.git-message.md)
